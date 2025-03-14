@@ -1,7 +1,6 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Choi%20Jiseong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend-Developer&descAlignY=51&descAlign=62"/>
 </p>
-<br/>
 
 ## ✨ Tech Stack ✨ <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
