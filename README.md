@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Choi Jiseong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend-Developer&descAlignY=51&descAlign=62"/>
+</p>
+<br/>
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
