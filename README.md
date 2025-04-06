@@ -32,6 +32,8 @@
 
 ## 📫 Contact me <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cwltjd98@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jiseong_98)
+
 
 
 
